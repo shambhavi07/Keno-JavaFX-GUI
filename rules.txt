@@ -1,0 +1,50 @@
+Keno Rules
+
+Keno is a lottery draw-style game that's easy to play.  
+For each Keno drawing, 20 numbers out of 80 will be selected as winning numbers.
+You can decide how many of these numbers (called Spots) and exactly which numbers you will try to match.
+You can select 1,2,8 or 10 spots. For example, if a 8-Spot game is selected, a total of 8 numbers from 1 to 80 would be selected.
+If you played that 8-Spot game for $1 and matched your 8 numbers to 8 of the winning numbers for that draw, you would win $10,000.
+
+Steps
+
+1. Select your bet. The winning  gets multiplied by the amount you selected.
+2. Select how many consecutive draws to play.
+3. Select the number of spots. 
+4. Pick as many numbers as selected in spots or select random pick.
+5. Press the draw button to play.
+6. You can reset your game after drawing is over by pressing the clear button.
+
+Prize chart for $1 Game.
+
+10 Spot Game
+Match          Prize
+10                $100,000
+9                  $4250
+8                  $450
+7                  $40
+6                  $15
+5                  $2
+0                  $5
+
+8 Spot Game
+Match          Prize
+8                  $10,000
+7                  $750
+6                  $50
+5                  $12
+4                  $2
+
+4 Spot Game
+Match          Prize
+4                  $75
+3                  $5
+2                  $1
+
+1 Spot Game
+Match          Prize
+1                  $2
+
+
+
+          
